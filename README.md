@@ -4,7 +4,9 @@ A Microsoft Windows Presentation Foundation (WPF) C# Kinect game that demonstrat
 
 # Description
 
-The game invites the player to wave his or her arms in the rhythm of a line moving up and down the screen. The line speeds up if a player follows the rhythm closely. It slows down if the player is unable to follow the rhythm. You have 40 seconds to drive the speed of the line up as much as possible. The player will then be awarded a score based on the speed of the line at that very moment. 
+"Flappy" makes use of an XBox Kinect camera to demonstrate the equivalence of the digital Lock-in Feedback (LiF) algorithm to an analog Lock-in Amplification (LiA). To do so, "Flappy" invites a player to wave his or her arms in a rhythm that is set by a line that moves up and down the screen. The line speeds up if the player is able to follow the rhythm closely. It slows down if he or she is unable to keep up. The goal of the game is to make the line move as fast as possible in a limited span of time.
+
+Importantly, the speed with which the line moves up and down the screen is determined by our Lock-in Feedback algorithm, or, in the LiA version, by a live, analog Lock-in Amplifier (Stanford Research Systems SR830). 
 
 # Illustration
 
@@ -28,7 +30,7 @@ The game has been made possible by the generous support of the Foundation for Fu
 
 # Software libraries and frameworks
 
-Both the LiA and the LiF versions of the game make use of the following (free) projects:
+Both the LiA and the LiF versions of the game make use of the following (free) libraries and frameworks:
 
 - The [Vitruvius](http://vitruviuskinect.com/) Kinect framework.
 - [MakApps.Metro](https://github.com/MahApps/MahApps.Metro), a toolkit for creating Metro styled WPF apps.
