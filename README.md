@@ -8,7 +8,7 @@ The game invites the player to wave his or her arms in the rhythm of a line movi
 
 # Illustration
 
-Photos of the setup (left) and the game being played (right):
+Photos of the analog LiA setup (to the left - lab equipment of course unnecessary for the digital LiF version) and the game being played (right):
 
 <img src="https://raw.githubusercontent.com/robinvanemden/Flappy---Kinect-Lock-in-Amplifier-demo/master/Images/setup.jpg" width="48%">   <img src="https://raw.githubusercontent.com/robinvanemden/Flappy---Kinect-Lock-in-Amplifier-demo/master/Images/play.jpg" width="48%">
 
