@@ -4,7 +4,7 @@ A Microsoft Windows Presentation Foundation (WPF) C# Kinect game that demonstrat
 
 # Description
 
-"Flappy" makes use of an XBox Kinect camera to demonstrate the equivalence of the digital Lock-in Feedback (LiF) algorithm to an analog Lock-in Amplification (LiA). To do so, "Flappy" invites a player to wave his or her arms in a rhythm that is set by a line that moves up and down the screen. The line speeds up if the player is able to follow the rhythm closely. It slows down if he or she is unable to keep up. The goal of the game is to make the line move as fast as possible in a limited span of time.
+"Flappy" makes use of an [XBox Kinect motion sensing input device](https://en.wikipedia.org/wiki/Kinect) to demonstrate the equivalence of the digital Lock-in Feedback (LiF) algorithm to an analog Lock-in Amplification (LiA). To do so, "Flappy" invites a player to wave his or her arms in a rhythm that is set by a line that moves up and down the screen. The line speeds up if the player is able to follow the rhythm closely. It slows down if he or she is unable to keep up. The goal of the game is to make the line move as fast as possible in a limited span of time.
 
 Importantly, the speed with which the line moves up and down the screen is determined by our Lock-in Feedback algorithm, or, in the LiA version, by a live, analog Lock-in Amplifier (Stanford Research Systems SR830). 
 
