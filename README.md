@@ -1,4 +1,4 @@
-# The Flappy Game - a Kinect Lock-in-Amplifier demo
+# Flappy - a Kinect Lock-in-Amplifier demo
 
 A Microsoft Windows Presentation Foundation (WPF) C# Kinect game that demonstrates the application and equivalence of digital Lock-in Feedback (LiF) versus analog Lock-in Amplification (LiA).
 
