@@ -1,4 +1,4 @@
-# Flappy - Kinect Lock-in-Amplifier demo
+# Flappy Bird - Kinect Lock-in-Amplifier demo
 
 A Microsoft Windows Presentation Foundation (WPF) C# Kinect game that demonstrates and compares digital Lock-in Feedback (LiF) versus analog Lock-in Amplification (LiA).
 
