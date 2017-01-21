@@ -26,7 +26,7 @@ The speed of the line is determined by our (Davide Iannuzzi, Maurits Kaptein, an
 
 The game has been made possible by the generous support of the Foundation for Fundamental Research on Matter ([FOM](https://www.fom.nl/en/)) and the Netherlands Organisation for Scientific Research ([NWO](http://www.nwo.nl/en)). It was presented at the yearly Dutch [Physics@Veldhoven](https://www.fom.nl/agenda/physicsatveldhoven/information/) (2017) conference.
 
-# Libraries
+# Software libraries and frameworks
 
 Both the LiA and the LiF versions of the game make use of the following (free) projects:
 
